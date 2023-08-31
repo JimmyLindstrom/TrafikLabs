@@ -1,0 +1,59 @@
+{
+  "StatusCode": 0,
+  "ExecutionTime": 282,
+  "ResponseData": {
+    "Version": "2014-10-09 01:05",
+    "Type": "DataModelType",
+    "Result": [
+      {
+        "LineNumber": "1",
+        "DirectionCode": "1",
+        "JourneyPatternPointNumber": "10008",
+        "LastModifiedUtcDateTime": "2012-06-23 00:00:00.000",
+        "ExistsFromDate": "2012-06-23 00:00:00.000"
+      },
+      {
+        "LineNumber": "1",
+        "DirectionCode": "1",
+        "JourneyPatternPointNumber": "10009",
+        "LastModifiedUtcDateTime": "2012-06-23 00:00:00.000",
+        "ExistsFromDate": "2012-06-23 00:00:00.000"
+      },
+      {
+        "LineNumber": "2",
+        "DirectionCode": "2",
+        "JourneyPatternPointNumber": "10008",
+        "LastModifiedUtcDateTime": "2012-06-23 00:00:00.000",
+        "ExistsFromDate": "2012-06-23 00:00:00.000"
+      },
+      {
+        "LineNumber": "2",
+        "DirectionCode": "2",
+        "JourneyPatternPointNumber": "10009",
+        "LastModifiedUtcDateTime": "2012-06-23 00:00:00.000",
+        "ExistsFromDate": "2012-06-23 00:00:00.000"
+      },
+      {
+        "LineNumber": "2",
+        "DirectionCode": "2",
+        "JourneyPatternPointNumber": "10010",
+        "LastModifiedUtcDateTime": "2012-06-23 00:00:00.000",
+        "ExistsFromDate": "2012-06-23 00:00:00.000"
+      },
+      {
+        "LineNumber": "2",
+        "DirectionCode": "2",
+        "JourneyPatternPointNumber": "10011",
+        "LastModifiedUtcDateTime": "2012-06-23 00:00:00.000",
+        "ExistsFromDate": "2012-06-23 00:00:00.000"
+      },
+      {
+        "LineNumber": "3",
+        "DirectionCode": "3",
+        "JourneyPatternPointNumber": "10012",
+        "LastModifiedUtcDateTime": "2012-06-23 00:00:00.000",
+        "ExistsFromDate": "2012-06-23 00:00:00.000"
+      }
+    ]
+  }
+}
